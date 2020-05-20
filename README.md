@@ -1,2 +1,2 @@
 # happy-or-not
-built model use keras framework
+emotion detection use convolutional neural network by keras framework
